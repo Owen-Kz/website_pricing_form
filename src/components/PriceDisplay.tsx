@@ -243,7 +243,7 @@ export const PriceDisplay = ({
       "• 50% balance due upon project completion and delivery",
       "• Monthly maintenance fees billed in advance",
       "• 30-day support included with development package",
-      "• Source code delivered upon final payment",
+      "• Source code delivered on request",
       "• Custom requirements may affect final pricing",
       "• Quote valid for 30 days from generation date"
     ];
@@ -420,7 +420,7 @@ export const PriceDisplay = ({
               <p>• Monthly billing for maintenance</p>
             </div>
             <p>• 30-day support included with development</p>
-            <p>• Source code delivered upon final payment</p>
+            <p>• Source code delivered on request</p>
             <p>• Custom requirements may affect final pricing</p>
           </div>
         </div>
