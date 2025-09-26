@@ -259,7 +259,7 @@ export const PricingCalculator = () => {
   };
 
   const formatPrice = (price: number) => {
-    return `₦${price.toLocaleString()}`;
+    return `NGN ${price.toLocaleString()}`;
   };
 
   const getAddOnsByCategory = (category: AddOnService['category']) => {
